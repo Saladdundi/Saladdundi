@@ -29,6 +29,21 @@ Motivated and results-driven IT Professional with a strong foundation in databas
   </a>
 </p>
 
+### 💻 Projects
+
+<p align="left">
+  <a href="https://github.com/Saladdundi/geosphere" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GeoSphere%20--%20AR%20Learning%20App-3C9EE7?style=for-the-badge&logo=android&logoColor=white" alt="GeoSphere Project" title="GeoSphere: A Mobile Augmented Reality Application for Enhancing Grade 10 Students’ Learning in Geology" />
+  </a>
+  <a href="https://github.com/Saladdundi/geosphere-backend" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GeoSphere%20--%20Backend%20API-0A66C2?style=for-the-badge&logo=nestjs&logoColor=white" alt="GeoSphere Backend Project" title="GeoSphere Backend API for Data Processing and Management" />
+  </a>
+  <a href="https://github.com/Saladdundi/City-of-Calamba-City-Planning-and-Development-Office-Archive" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Archiving%20System%20--%20City%20Planning-2E8B57?style=for-the-badge&logo=files&logoColor=white" alt="Archiving System Project" title="Archiving System for City Planning and Development Office (OJT Project)" />
+  </a>
+</p>
+
+
 
 ### Socials
 
