@@ -34,17 +34,25 @@ Motivated and results-driven IT Professional with a strong foundation in databas
 <p align="left">
   <img src="https://img.shields.io/badge/GeoSphere%20--%20AR%20Learning%20App-3C9EE7?style=for-the-badge&logo=android&logoColor=white" alt="GeoSphere Project" title="GeoSphere: A Mobile Augmented Reality Application" />
 </p>
+
 GeoSphere is a mobile augmented reality application developed as a capstone project designed to enhance Grade 10 students’ understanding of geology concepts such as plate tectonics and landform formation. It features 3D models, animations, quizzes, and interactive simulations to make Earth Science lessons more engaging and accessible.
+
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/GeoSphere%20--%20Backend%20API-0A66C2?style=for-the-badge&logo=nestjs&logoColor=white" alt="GeoSphere Backend Project" title="GeoSphere Backend API" />
 </p>
-The GeoSphere Backend API supports the mobile application by managing data processing, user assessments, and database integration. It was developed to ensure smooth communication between the app and its data storage systems using optimized API endpoints.
+
+The GeoSphere Backend API supports the mobile application by managing data processing, user assessments, and database integration. It ensures smooth communication between the app and its data storage systems using optimized API endpoints.
+
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/Archiving%20System%20--%20City%20Planning-2E8B57?style=for-the-badge&logo=files&logoColor=white" alt="Archiving System Project" title="Archiving System for City Planning Office" />
 </p>
+
 The Archiving System for the City Planning and Development Office was developed during on-the-job training (OJT). It digitizes and organizes official documents, project records, and permits to streamline file management and retrieval. The system enhances operational efficiency and supports a more sustainable, paperless workflow.
+
 
 
 ### Socials
